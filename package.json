@@ -1,0 +1,16 @@
+{
+  "name": "expressassignment",
+  "version": "1.0.0",
+  "description": "Product Management APIs via express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "router": "^1.3.5"
+  }
+}
